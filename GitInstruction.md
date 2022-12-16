@@ -19,3 +19,5 @@
 git config --global user.email (username)
 git config --global user.name (usermail)
 ```
+## 4. Инициализация репозитория
+Для запуска репозитория в нужной нам папке и отслеживания версий используем следующую команду: `git init`
