@@ -12,3 +12,10 @@
 >https://git-scm.com/downloads
 
 Устанавливаем с настройками по умолчанию
+
+## 3. Первичная настройка гит
+При первом использовании Git необходимо представиться. Для этого нужно ввести в терминале две следующие команды:
+```
+git config --global user.email (username)
+git config --global user.name (usermail)
+```
