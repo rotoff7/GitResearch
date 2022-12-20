@@ -1,3 +1,4 @@
+![Logo](TestGitPic.png)
 # Работа с Git
 ## 1. Установка Git
 Загружаем последнюю версию программы с [официального сайта](https://git-scm.com/downloads).
