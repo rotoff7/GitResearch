@@ -165,6 +165,8 @@ git merge (Branch_Name)
 ```
 List[1,5,6,4,9,3,7]
 size=7
+index=0
+sum=0
 While (index<size):
     if List[index]>5:
         sum=sum+List[index]
